@@ -1,0 +1,116 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\foodie app\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\values-si\\values-si.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\rohit\\.gradle\\caches\\transforms-2\\files-2.1\\3ae8acf77913112ba07cff775c9265b3\\core-1.1.0\\res\\values-si\\values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "377",
+                        "endColumns": "100",
+                        "endOffsets": "473"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\rohit\\.gradle\\caches\\transforms-2\\files-2.1\\f91171ebe19de595031ae6b5714a4ece\\jetified-firebase-messaging-22.0.0\\res\\values-si\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "207",
+                        "endColumns": "69",
+                        "endOffsets": "276"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "303",
+                        "endColumns": "73",
+                        "endOffsets": "372"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\rohit\\.gradle\\caches\\transforms-2\\files-2.1\\8046d7303c2565b32860883ab8f5785b\\jetified-play-services-basement-17.0.0\\res\\values-si\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "197",
+                        "endOffsets": "444"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "197",
+                        "endOffsets": "298"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Android\\foodie app\\build\\firebase_messaging\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-si\\values-si.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\rohit\\.gradle\\caches\\transforms-2\\files-2.1\\3ae8acf77913112ba07cff775c9265b3\\core-1.1.0\\res\\values-si\\values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "377",
+                        "endColumns": "100",
+                        "endOffsets": "473"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\rohit\\.gradle\\caches\\transforms-2\\files-2.1\\f91171ebe19de595031ae6b5714a4ece\\jetified-firebase-messaging-22.0.0\\res\\values-si\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "207",
+                        "endColumns": "69",
+                        "endOffsets": "276"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "303",
+                        "endColumns": "73",
+                        "endOffsets": "372"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\rohit\\.gradle\\caches\\transforms-2\\files-2.1\\8046d7303c2565b32860883ab8f5785b\\jetified-play-services-basement-17.0.0\\res\\values-si\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "197",
+                        "endOffsets": "444"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "197",
+                        "endOffsets": "298"
+                    }
+                }
+            ]
+        }
+    ]
+}

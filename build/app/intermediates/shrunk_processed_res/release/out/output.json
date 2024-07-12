@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "applicationId": "com.edentech.foodie",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "SHRUNK_PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "FULL_SPLIT",
+        "splits": [
+          {
+            "filterType": "ABI",
+            "value": "arm64-v8a"
+          }
+        ],
+        "versionCode": 2005,
+        "versionName": "1.6.0",
+        "filterName": "arm64-v8a",
+        "outputFile": "app-arm64-v8a-release.apk",
+        "fullName": "arm64-v8aRelease",
+        "baseName": "arm64-v8a-release",
+        "dirName": "arm64-v8a\\"
+      },
+      "path": "resources-arm64-v8a-release-stripped.ap_",
+      "properties": {}
+    },
+    {
+      "outputType": {
+        "type": "SHRUNK_PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "FULL_SPLIT",
+        "splits": [
+          {
+            "filterType": "ABI",
+            "value": "x86_64"
+          }
+        ],
+        "versionCode": 4005,
+        "versionName": "1.6.0",
+        "filterName": "x86_64",
+        "outputFile": "app-x86_64-release.apk",
+        "fullName": "x86_64Release",
+        "baseName": "x86_64-release",
+        "dirName": "x86_64\\"
+      },
+      "path": "resources-x86_64-release-stripped.ap_",
+      "properties": {}
+    },
+    {
+      "outputType": {
+        "type": "SHRUNK_PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "FULL_SPLIT",
+        "splits": [
+          {
+            "filterType": "ABI",
+            "value": "armeabi-v7a"
+          }
+        ],
+        "versionCode": 1005,
+        "versionName": "1.6.0",
+        "filterName": "armeabi-v7a",
+        "outputFile": "app-armeabi-v7a-release.apk",
+        "fullName": "armeabi-v7aRelease",
+        "baseName": "armeabi-v7a-release",
+        "dirName": "armeabi-v7a\\"
+      },
+      "path": "resources-armeabi-v7a-release-stripped.ap_",
+      "properties": {}
+    }
+  ]
+}

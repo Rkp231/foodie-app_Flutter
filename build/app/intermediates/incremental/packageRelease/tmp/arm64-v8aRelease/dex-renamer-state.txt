@@ -1,0 +1,4 @@
+#Thu Mar 31 11:34:40 IST 2022
+base.0=D\:\\Android\\foodie app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

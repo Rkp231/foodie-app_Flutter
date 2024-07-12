@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "950175586797",
+    "firebase_url": "https://flutter-projects-5ec90.firebaseio.com",
+    "project_id": "flutter-projects-5ec90",
+    "storage_bucket": "flutter-projects-5ec90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950175586797:android:cd3570297f47fd9b2fefe4",
+        "android_client_info": {
+          "package_name": "com.edentech.foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950175586797-kbgbvi7ne2m2r845kj9mfbnms55915ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1xsylITMwNWQbbfE5jhftGUmE_LwlyDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950175586797-kbgbvi7ne2m2r845kj9mfbnms55915ep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "950175586797-fgg71me1thl4160qv6a0deqmilvaehc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edentech.foodie"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950175586797:android:eafb386f6345cd8c2fefe4",
+        "android_client_info": {
+          "package_name": "com.example.foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950175586797-kbgbvi7ne2m2r845kj9mfbnms55915ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1xsylITMwNWQbbfE5jhftGUmE_LwlyDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950175586797-kbgbvi7ne2m2r845kj9mfbnms55915ep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "950175586797-fgg71me1thl4160qv6a0deqmilvaehc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edentech.foodie"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950175586797:android:7856178722e57ff32fefe4",
+        "android_client_info": {
+          "package_name": "com.example.foodiedeliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950175586797-kbgbvi7ne2m2r845kj9mfbnms55915ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1xsylITMwNWQbbfE5jhftGUmE_LwlyDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950175586797-kbgbvi7ne2m2r845kj9mfbnms55915ep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "950175586797-fgg71me1thl4160qv6a0deqmilvaehc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edentech.foodie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
